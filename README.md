@@ -1,0 +1,1 @@
+# MP2021-22_Novak-Martin_Vytvoreni-webove-prezentace-pro-W-INVEST
