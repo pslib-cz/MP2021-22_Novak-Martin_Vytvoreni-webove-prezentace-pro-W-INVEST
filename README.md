@@ -3,7 +3,7 @@
 ## Obor: Technické lyceum
 ## Rok: 2021/22
 # Materiály
-[Maturitní práce - Word](https://pslib-my.sharepoint.com/:w:/g/personal/u17_315_pslib_cloud/EXfucYBJnYdOtEWJ5hBkskABR4dMdfRVkaJLgfLrkZd-Zw?e=q1FWA3)
+[Maturitní práce - Word](https://pslib-my.sharepoint.com/:w:/g/personal/marnova017_pslib_cz/Eej4jq0saA1IrBHtzOetnsEBuDByj7jL1_5ZH7lT3ehZMg?e=QZaClS)
 
 [Wireframe](https://pslib-my.sharepoint.com/:u:/g/personal/u17_315_pslib_cloud/ESym7IoBtQlPi56jZb_L3ZsBecmVop3qrd5t_qK6RNBl7w?e=F4YGg1)
 
