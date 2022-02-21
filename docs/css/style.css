@@ -1,0 +1,192 @@
+header {
+    background-color: #00468F;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #002954;
+    height: 94px;
+}
+
+.header_box {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+.header_box-logo {
+    width: 156px;
+}
+
+.h1 {
+    font-size: 1em;
+    position: absolute;
+    left: -9999px;
+}
+
+.nav_ul {
+    display: flex;
+    padding: 0;
+}
+
+.nav_ul-item a:hover {
+    text-decoration: underline;
+}
+
+.initial_invisible {
+    display: none;
+}
+
+.btn {
+    padding: 6px 21px 6px 21px;
+    color: #00468F;
+    background-color: #fff;
+    border: 1px #fff solid;
+    border-radius: 10px;
+    width: 94px;
+    white-space: nowrap;
+}
+
+.btn:visited {
+    color: #00468F;
+}
+
+.btn:hover {
+    border-radius: 30px;
+    transition: ease-in-out 0.4s;
+}
+
+
+a.btn:hover {
+    text-decoration: none;
+}
+
+.background_photo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../Images/stavbyvedouci_kontrola_projektu_hlavni_01.jpg);
+    background-size: 960px;
+    background-position: center;
+    height: 540px;
+    color: #fff;
+}
+
+.btn--photo {
+    display: block;
+    padding: 7.5px 27px 7.5px 27px;
+}
+
+.background_photo-text {
+    width: 80%;
+}
+
+.Project_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.Project_card-image_container {
+    width: 100%;
+    max-width: 450px;
+    height: 275px;
+    overflow: hidden;
+}
+
+.Project_card-image_container img {
+    width: 100%;
+}
+
+.Project_card p {
+    width: 90%;
+    max-width: 450px;
+    margin: 0;
+    margin-bottom: 90px;
+}
+
+.section-title {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+main section:nth-child(2n+2) {
+    background-color: #0055AE;
+    color: #fff;
+}
+
+.Project_card--realization p {
+    margin-top: 30px;
+}
+
+.inf {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 48px;
+}
+
+
+.inf-title {
+    margin: 30px 0;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.contact-mail::before {
+    content: "";
+    display: block;
+    background: url(../Images/icons/Icon\ material-email.svg) no-repeat;
+    width: 30px;
+    height: 25px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.contact-tel::before {
+    content: "";
+    display: block;
+    background: url(../Images/icons/Icon\ awesome-phone-alt.svg) no-repeat;
+    width: 30px;
+    height: 32px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.contact-address::before {
+    content: "";
+    display: block;
+    background: url(../Images/icons/Icon\ awesome-map-marker-alt.svg) no-repeat;
+    width: 30px;
+    height: 32px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.contact-mail, .contact-tel, .contact-address {
+    margin-bottom: 40px;
+}
+
+.map {
+    width: 100%;
+    max-width: 450px;
+    height: 260px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
