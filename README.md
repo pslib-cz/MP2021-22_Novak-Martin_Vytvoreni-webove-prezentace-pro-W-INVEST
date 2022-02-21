@@ -9,4 +9,8 @@
 
 [Ganttův diagram - Excel](https://pslib-my.sharepoint.com/:x:/g/personal/u17_315_pslib_cloud/ERm1kZr9hppIvKdWDBYljPABDeFhEHS6R4lwmk3OT4kbJg?e=XYnxzT)
 
+[Návrh - XD](https://pslib-my.sharepoint.com/:u:/g/personal/marnova017_pslib_cz/Ea6Fj5LQ7_1PnPbxHjVCP_wBs6C0FUrk3rD5sryHBayRWg?e=9PBdTv)
+
+[Návrh - XD - v.2 - po konzultaci](https://pslib-my.sharepoint.com/:u:/g/personal/marnova017_pslib_cz/EafO2ggCPtFJgzW16_BU34cBGc-xdp3NZZOuz_UgrvM9ZA?e=spnqhC)
+
 [Web - Github](https://pslib-cz.github.io/MP2021-22_Novak-Martin_Vytvoreni-webove-prezentace-pro-W-INVEST/)
