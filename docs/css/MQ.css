@@ -1,0 +1,301 @@
+
+@media only screen and (min-width: 640px) {
+
+    .tablet_visible {
+        display: initial;
+    }
+
+    .header_box__nav {
+        width: 70vw;
+    }
+
+    .header_box__nav__nav_ul {
+        justify-content: space-between;
+    }
+
+    .section_container {
+        width: 94%;
+        margin: 0 auto;
+    }
+
+    .section_container__Project_card_section {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .section_container__Project_card_section__item {
+        width: 47.5%;
+    }
+
+    .section_container__Project_card_section__item--short {
+        height: 380px;
+    }
+
+    .section_container__Project_card_section__item__image_container {
+        height: 194px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons {
+        width: 325px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons img {
+        padding-bottom: 14px;
+    }
+
+    .section_container__Project_card_section__item--realization {
+        width: 100%;
+    }
+
+    .section_container__Project_card_section__item__image_container--realization {
+        max-width: initial;
+        height: 300px;
+    }
+
+    .section_container--flex {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .section_container__title--flex {
+        width: 100%;
+    }
+
+    .section_container__info--flex {
+        width: 47.5%;
+    }
+
+    .section_container__info__map_container {
+        width: 47.5%;
+    }
+
+    .section_container__info__map_container__map {
+        grid-row: 2/3;
+        grid-column: 2/3;
+        width: 100%;
+        margin: 0;
+    }
+
+    p {
+        min-height: 5em;
+    }
+}
+
+@media only screen and (min-width: 750px) {
+    .section_container__Project_card_section__item__image_container {
+        height: 220px;
+    }
+}
+
+@media only screen and (min-width: 920px) {
+
+    header {
+        height: 125px;
+    }
+
+    .header_box {
+        width: 94%;
+        justify-content: space-between;
+    }
+
+    .header_box__nav {
+        width: 65%;
+    }
+
+    .header_box__logo {
+        width: 240px;
+    }
+
+    .btn {
+        padding: 13px 49px 13px 49px;
+        color: #00468F;
+        background-color: #fff;
+        border: 1px #fff solid;
+        border-radius: 17px;
+        width: 94px;
+    }
+    
+    .section_container__info__contact a span, .section_container__info__inf span {
+        font-size: 22px;
+    }
+
+    .section_container__info__inf__title {
+        font-size: 32px;
+      }
+
+    .btn--photo {
+        display: block;
+        padding: 15px 50px 15px 50px;
+    }
+
+    .section_container__Project_card_section__item--short {
+        height: 405px;
+    }
+
+    .section_container__Project_card_section__item__image_container {
+        height: 250px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons {
+        width: 415px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons span {
+        font-size: 145px;
+        font-weight: 300;
+    }
+}
+
+
+@media only screen and (min-width: 960px) {
+
+    .background_photo {
+        background-size: 1148px;
+    }
+
+    .section_container__info__map_container__map {
+        max-width: initial;
+    }
+
+    .header_box__nav {
+        width: 65%;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+
+    .desktop_visible {
+        display: initial;
+    }
+
+    .background_photo {
+        background-size: 1560px;
+        height: 770px;
+    }
+
+    .background_photo__title {
+        font-size: 44px;
+    }
+
+    .section_container__Project_card_section {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        gap: 50px;
+    }
+
+    .section_container__Project_card_section__item--short {
+        height: initial;
+    }
+
+    .section_container__Project_card_section__item__image_container {
+        height: 216px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons {
+        width: 335px;
+        height: 125px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons span {
+        font-size: 120px;
+        font-weight: 300;
+    }
+
+    .section_container__Project_card_section__item--realization {
+        display: flex;
+        flex-direction: row;
+        justify-content: initial;
+    }
+
+    .section_container--relaization {
+        padding-bottom: 5%;
+    }
+
+    .section_container__Project_card_section__item__image_container--realization {
+        width: 50%;
+    }
+
+    .section_container__Project_card_section__item__image_container--realization img {
+        height: 100%;
+    }
+
+    .section_container__Project_card_section__item--realization p {
+        margin: 0 auto;
+        width: 50%;
+    }
+
+    .section_container__info--flex {
+        width: 40%;
+        margin-right: 10%;
+    }
+
+    .section_contact {
+        padding-bottom: 50px;
+    }
+
+    .section_container__info__map_container {
+        width: 50%;
+        height: 330px;
+    }
+
+    .section_container__info__map_container__map {
+        height: 100%;
+    }
+
+    h3 {
+        min-height: 2em;
+    }
+
+    p {
+        min-height: 5.5em;
+    }
+
+}
+
+@media only screen and (min-width: 1172px) {
+
+    h3 {
+        min-height: initial;
+    }
+
+    p {
+        min-height: 5em;
+    }
+}
+
+@media only screen and (min-width: 1330px) {
+    .section_container__Project_card_section__item__image_container {
+        height: 250px;
+    }
+
+    .section_container__Project_card_section__item__image_container--icons {
+        width: 335px;
+        height: 125px;
+    }
+}
+
+@media only screen and (min-width: 1550px) {
+
+    .background_photo {
+        background-size: 1920px;
+        height: calc(100vh - 125px);
+    }
+    
+    .section_container {
+        width: 81.25%;
+    }    
+}
