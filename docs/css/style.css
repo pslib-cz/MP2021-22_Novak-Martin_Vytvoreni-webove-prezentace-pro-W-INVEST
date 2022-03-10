@@ -73,7 +73,7 @@ a.btn:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Real_images/collage/kolaz_phone.jpg);
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../Images/Real_images/collage/kolaz_phone.jpg);
     background-position: center;
     background-size: 1100px;
     height: 540px;
