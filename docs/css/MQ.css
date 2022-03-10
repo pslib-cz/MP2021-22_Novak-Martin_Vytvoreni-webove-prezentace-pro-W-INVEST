@@ -177,7 +177,7 @@
     }
 
     .background_photo {
-        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Real_images/collage/kolaz_smallpc.jpg);
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../Images/Real_images/collage/kolaz_smallpc.jpg);
         background-size: 1560px;
         height: 770px;
     }
@@ -292,7 +292,7 @@
 @media only screen and (min-width: 1550px) {
 
     .background_photo {
-        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Real_images/collage/kolaz.jpg);
+        background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../Images/Real_images/collage/kolaz.jpg);
         background-size: 1920px;
         height: calc(100vh - 125px);
     }
